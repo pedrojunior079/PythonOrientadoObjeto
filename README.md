@@ -1,2 +1,7 @@
 # PythonOrientadoObjeto
-Apostila Curso Celum de Python e Orientação a Objetos
+Apostila Curso Caelum de Python e Orientação a Objetos
+
+Capitulo 3 Variáveis E Tipos Embutidos
+
+Capitulo 4 Introdução Ao PyCharm
+
